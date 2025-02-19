@@ -1,0 +1,8 @@
+[
+    {
+        "name": "carrots",
+        "category": "vegetables",
+        "expiration_date": "2/18/2025",
+        "status": "purchased"
+    }
+]
